@@ -93,6 +93,7 @@ https://bootswatch.com/morph/
 
 Flaticon
 A flaticon was used from <a href="https://www.flaticon.com/free-icons/heart" title="heart icons">Heart icons created by pictranoosa - Flaticon</a>
+And it was imported using the following tutorial: https://www.youtube.com/watch?v=HtXjhEwf32I
 
 # Generative AI Notice
 
