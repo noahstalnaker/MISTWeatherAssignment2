@@ -81,7 +81,7 @@ Repository of a weather app with forecasts
 Bootstrap, CSS, and Images were utiliized from outside sources.
 
 CSS Utilized from W3 Schools
-Search Bar/Input Button
+Search Bar/Input Button That Utilizes a Image to Seach
 https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_form_input_group_btn&stacked=h 
 <br/>
 <br/>
