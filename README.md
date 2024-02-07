@@ -101,3 +101,4 @@ ChatGPT was used in this website. Its uses were:
 * Used to restructure HTML code to be more organized
 * Used to gernerate cards for the dividers/content on the Today and Future pages
 * Used to generate CSS to animate text and properly align various aspects throughout the website
+* Used to aid in formating Return Button's locations
