@@ -99,6 +99,6 @@ And it was imported using the following tutorial: https://www.youtube.com/watch?
 
 ChatGPT was used to help build this website. Its uses were:
 * Used to restructure HTML code to be more organized
-* Used to gernerate cards for the dividers/content on the Today and Future pages
+* Used to generate cards for the dividers/content on the Today and Future pages
 * Used to generate CSS to animate text and properly align various aspects throughout the website
 * Used to aid in formating Return Button's locations
